@@ -22,6 +22,7 @@
 \newpage
 
 \tableofcontents
+
 \newpage
 \setlength{\voffset}{-3cm}
 \begin{center}
@@ -35,17 +36,11 @@
 
 \newpage
 
-\setlength{\voffset}{-3cm}
-\begin{center}
-\section{\textbf{\huge{Group Chat Handling}}}
-
-\Large{Use Cases}
-\end{center}
-
 %--------------------FunReq Create---------------------------s
-\subsection{Introduction}
 
-\subsubsection{Purpose}
+\section{Introduction}
+
+\subsection{Purpose}
 \textbf{Description:}The purpose of this project is to extend Linphone's Instant Messaging (IM) implementation on Android platforms to include group chat and to implement other minor improvements to Linphones IM capabilities and user interface.
 This project will give the student group exposure to:   
  \begin{itemize}
@@ -57,7 +52,7 @@ This project will give the student group exposure to:
 \end{itemize}
 This project also forms part of a larger Masters study on development methodologies for projects seeking DO-178 certification.
 
-\subsubsection{Scope}
+\subsection{Scope}
 \textbf{Description:}We are required to develop the following functionality for the Linphone project   
  \begin{itemize}
 	\item Group chat (Invite additional members to a chat, all members receive chats)
@@ -76,10 +71,10 @@ This project also forms part of a larger Masters study on development methodolog
 			\item User picture portraits
 		\end{itemize}		
 \end{itemize}
+\newpage
 
-
-\subsubsection{Documentation conventions}
-\textbf{Description:}DO-178B does not specify the documentation standard to be followed, but most projects do follow some or other documentation standard. The following figure is loosely based on MIL-STD-490A, although sometimes “Detail design” and “Notes” are changed into some other topic of discussion.\\
+\section{Documentation conventions}
+\textbf{Description:}DO-178B does not specify the documentation standard to be followed, but most projects do follow some or other documentation standard. The following figure is loosely based on MIL-STD-490A, although sometimes ï¿½Detail designï¿½ and ï¿½Notesï¿½ are changed into some other topic of discussion.\\
 
 
 \begin{figure}
@@ -94,44 +89,49 @@ In the documentation, especially when talking about requirements and specificati
 \textbf{SHOULD} and \textbf{SHOULD NOT} - Indicates a non-mandatory desire, preference or recommendation.
 \textbf{MAY} and \textbf{MAY NOT} - Indicates a non-mandatory suggestion or permission.
 \textbf{MUST} and \textbf{MUST NOT} should be avoided as it causes confusion with the above terms. \\
+\newpage
 
-\subsubsection{System overview}
-\subsubsubsection{Server Architecture}
+\section{System overview}
+\subsection{Server Architecture}
 %-----------------------Edit this section--------------------------
+\newpage
 
-\subsubsection{System overview}
-\subsubsubsection{Software Architecture}
+\section{System overview}
+\subsection{Software Architecture}
 %-----------------------Edit this section--------------------------
+\newpage
 
 
-\subsubsection{Certification considerations}
+\section{Certification considerations}
 The project will be developed according to DO-178 certification requirements, for level D certification. Justification for level D is not dependant on safety considerations as is usually the case, but rather on limited time and the limited experience the team has with DO-178.\\
 This project is not intended for avionics applications and is not safety critical, but rather serves as a case study on DO-178 software development.\\
+\newpage
 
-\subsubsection{Software lifecycle}
+\section{Software lifecycle}
 An agile software development methodology will be followed with this project:\\
 
 \begin{figure}
-\centering
 \includegraphics[width=1\linewidth]{./pictures/agile.jpg}\\
 \caption{\label{fig:Agile}Agile development.}
 \end{figure}
+\newpage
 %-------------------------
 
-\subsubsection{Scrum}
-During sprint planning and review sessions, we can review and update the Design Description (DD) document detailing the software architecture. At the end of a sprint, the implemented user stories will form the Software Requirements Data (SRD’s). It will look something like this…\\
+\subsection{Scrum}
+During sprint planning and review sessions, we can review and update the Design Description (DD) document detailing the software architecture. At the end of a sprint, the implemented user stories will form the Software Requirements Data (SRD's). It will look something like this:\\
 
 \begin{figure}
-\centering
 \includegraphics[width=1\linewidth]{./pictures/scrum.jpg}\\
 \caption{\label{fig:Scrum}Scrum outputs.}
 \end{figure}
 
 
 During sprint planning we ensure that the user stories i.e. the high level requirements we are planning to implement is consistent with previous implemented requirements. During sprint review we update the requirements with the implemented user stories, and ensure the created functional tests and unit tests i.e. the low level requirements are consistent with the high level requirements (user stories).
+\newpage
+
 %-------------------------
 
-\subsubsection{Continuous integration (CI) and Continuous deployment (CD)}
+\subsection{Continuous integration (CI) and Continuous deployment (CD)}
 
 The CI and CD servers themselves are effectively the Software Life Cycle Environment Configuration Index (SECI), Software Configuration Index (SCI) and parts of the Sofware Configuration Management Records (SCMR) deliverables. For this to be possible, the CI server must have a copy of the version control database when duplicated for certification. \\
 This means an agile setup might look as follows: \\
@@ -143,15 +143,19 @@ This means an agile setup might look as follows: \\
 \end{figure}
 
 
-If all the tests pass, the CI / CD will autogenerate a snapshot of itself (VM’s or some other duplication means) and the version control database to serve as the SECI and SCI. It will also generate reports of the tests run and their results to serve as the SVP and SVR’s, and generate reports that can serve as SCMR items (This is baselines, commit histories etc.).
+If all the tests pass, the CI / CD will autogenerate a snapshot of itself (VMï¿½s or some other duplication means) and the version control database to serve as the SECI and SCI. It will also generate reports of the tests run and their results to serve as the SVP and SVRï¿½s, and generate reports that can serve as SCMR items (This is baselines, commit histories etc.).
+\newpage
+
 
 %-------------------------
-\subsubsection{Test driven development}
-Test driven development can be used to generate the large parts of the Software Verification Cases and Procedures (SVCP’s) and Software Verification Results (SVR’s). High level requirements will be developed and tested with feature driven development, and unit tests will be used to develop and test low level requirements. But not all unit tests are really low level requirements, for instance testing if a function can handle null pointer parameters. As such we will mark which unit tests are indeed low level requirements in the unit testing code itself.\\ 
+\subsection{Test driven development}
+Test driven development can be used to generate the large parts of the Software Verification Cases and Procedures (SVCPï¿½s) and Software Verification Results (SVRï¿½s). High level requirements will be developed and tested with feature driven development, and unit tests will be used to develop and test low level requirements. But not all unit tests are really low level requirements, for instance testing if a function can handle null pointer parameters. As such we will mark which unit tests are indeed low level requirements in the unit testing code itself.\\ 
 The relationship between the Continuous integration (CI) server and the Continuous deployment (CD) server is detailed in the popular test pyramid developed by Mike Cohn, where the CI is responsible for making sure the source code compiles at all times, and passes all unit tests, and the CD is responsible for making sure the automated functional tests pass at all times. One would expect to develop a lot more unit tests than functional tests, thereby limiting (but not eliminating) the need for expensive manual testing.\\
+\newpage
+
 %-------------------------
 
-\subsubsection{Software development environment}
+\section{Software development environment}
 
 We will improve and revolve this sections out when we are comfortable in the project with the development environment.
 
@@ -162,9 +166,11 @@ We will improve and revolve this sections out when we are comfortable in the pro
 	\item C for group chat functionalities
 	\item Unit testing user interface
 \end{itemize}
+\newpage
+
 %-------------------------
 
-\subsubsection{Software lifecycle data}
+\section{Software lifecycle data}
 
 The following deliverables will be created during this project:
 
@@ -192,36 +198,33 @@ The following deliverables will be created during this project:
 \end{itemize}
 %-------------------------
 
-\subsubsection{Schedule / Software development plan}
+\section{Schedule / Software development plan}
 The automated testing, setup of the CI and CD environment as well as the sprint back log will be implement and completed from the 22 June 2015 to the 5 July 2015 because that is when we conclude our exams and start implementations.
-Please note that for each ‘story’ we will setup unit testing and automated testing as discussed later on in the user role table.
+Please note that for each ï¿½storyï¿½ we will setup unit testing and automated testing as discussed later on in the user role table.
 
-\subsubsubsection{Task Description}
+\subsection{Task Description}
 
 \begin{figure}
-\centering
 \includegraphics[width=1\linewidth]{./pictures/task.jpg}\\
 \caption{\label{fig:Discription}Task Description.}
 \end{figure}
 
-\subsubsubsection{User Role}
+\subsection{User Role}
 Each task in the user story is implemented concurrently and sequentially as needed.
 
 \begin{figure}
-\centering
 \includegraphics[width=1\linewidth]{./pictures/role.jpg}\\
 \caption{\label{fig:Discription}Task Description.}
 \end{figure}
 
-\subsubsubsection{Burn Down Chart}
+\subsection{Burn Down Chart}
 
 \begin{figure}
-\centering
 \includegraphics[width=1\linewidth]{./pictures/burnDown.jpg}\\
 \caption{\label{fig:Discription}Task Description.}
 \end{figure}
 %-------------------------
 
-\subsubsection{Licencing and ownership}
+\section{Licencing and ownership}
 The aim is to open-source the project which would be published on Github as forked from Linphone project. 
 \end{document}
