@@ -16,9 +16,9 @@
 \contentsline {subsection}{\numberline {6.2}Continuous integration (CI) and Continuous deployment (CD)}{16}{subsection.6.2}
 \contentsline {subsection}{\numberline {6.3}Test driven development}{17}{subsection.6.3}
 \contentsline {section}{\numberline {7}Software development environment}{18}{section.7}
-\contentsline {section}{\numberline {8}Software lifecycle data}{19}{section.8}
-\contentsline {section}{\numberline {9}Schedule / Software development plan}{20}{section.9}
-\contentsline {subsection}{\numberline {9.1}Task Description}{20}{subsection.9.1}
-\contentsline {subsection}{\numberline {9.2}User Role}{20}{subsection.9.2}
-\contentsline {subsection}{\numberline {9.3}Burn Down Chart}{22}{subsection.9.3}
-\contentsline {section}{\numberline {10}Licencing and ownership}{23}{section.10}
+\contentsline {section}{\numberline {8}Software lifecycle data}{18}{section.8}
+\contentsline {section}{\numberline {9}Schedule / Software development plan}{19}{section.9}
+\contentsline {subsection}{\numberline {9.1}Task Description}{19}{subsection.9.1}
+\contentsline {subsection}{\numberline {9.2}User Roles}{19}{subsection.9.2}
+\contentsline {subsection}{\numberline {9.3}Burn Down Chart}{21}{subsection.9.3}
+\contentsline {section}{\numberline {10}Licencing and ownership}{22}{section.10}
