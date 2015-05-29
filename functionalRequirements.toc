@@ -1,0 +1,21 @@
+\select@language {english}
+\contentsline {section}{\numberline {1}Introduction}{3}{section.1}
+\contentsline {subsection}{\numberline {1.1}Purpose}{3}{subsection.1.1}
+\contentsline {subsection}{\numberline {1.2}Scope}{3}{subsection.1.2}
+\contentsline {section}{\numberline {2}Documentation conventions}{4}{section.2}
+\contentsline {section}{\numberline {3}System overview}{6}{section.3}
+\contentsline {subsection}{\numberline {3.1}Server Architecture}{6}{subsection.3.1}
+\contentsline {section}{\numberline {4}System overview}{7}{section.4}
+\contentsline {subsection}{\numberline {4.1}Software Architecture}{7}{subsection.4.1}
+\contentsline {section}{\numberline {5}Certification considerations}{8}{section.5}
+\contentsline {section}{\numberline {6}Software lifecycle}{9}{section.6}
+\contentsline {subsection}{\numberline {6.1}Scrum}{11}{subsection.6.1}
+\contentsline {subsection}{\numberline {6.2}Continuous integration (CI) and Continuous deployment (CD)}{12}{subsection.6.2}
+\contentsline {subsection}{\numberline {6.3}Test driven development}{13}{subsection.6.3}
+\contentsline {section}{\numberline {7}Software development environment}{14}{section.7}
+\contentsline {section}{\numberline {8}Software lifecycle data}{15}{section.8}
+\contentsline {section}{\numberline {9}Schedule / Software development plan}{15}{section.9}
+\contentsline {subsection}{\numberline {9.1}Task Description}{15}{subsection.9.1}
+\contentsline {subsection}{\numberline {9.2}User Role}{15}{subsection.9.2}
+\contentsline {subsection}{\numberline {9.3}Burn Down Chart}{18}{subsection.9.3}
+\contentsline {section}{\numberline {10}Licencing and ownership}{18}{section.10}
