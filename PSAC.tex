@@ -269,6 +269,12 @@ RTSP is used to control the delivery of streaming media across the network. It p
 
 \section{Software overview}
 \subsection{Software Architecture}
+
+We will use LinphoneChatRoom interface to implement the group chat. LinphoneChatMessage will include createLinphoneChatMessage which will create a LinphoneChat. 
+LinphoneCore : ge Core()  This will return a back pointer to the core managing the chat room.
+LinphoneChatMessage.State
+This class will show the state of an object. For example: Whether the file was transferred or not and whether the message was derived or not. It will keep track of certain actions that take place and track the progress.
+
 %-----------------------Edit this section--------------------------
 \newpage
 
