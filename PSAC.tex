@@ -322,9 +322,7 @@ If all the tests pass, the CI / CD will autogenerate a snapshot of itself (VMs o
 
 %-------------------------
 \subsection{Test driven development}
-Test driven development can be used to generate the large parts of the Software Verification Cases and Procedures (SVCPs) and Software Verification Results (SVRs). High level requirements will be developed and tested with feature driven development, and unit tests will be used to develop and test low level requirements. But not all unit tests are really low level requirements, for instance testing if a function can handle null pointer parameters. As such we will mark which unit tests are indeed low level requirements in the unit testing code itself.\\ 
-\\
-The relationship between the Continuous integration (CI) server and the Continuous deployment (CD) server is detailed in the popular test pyramid developed by Mike Cohn, where the CI is responsible for making sure the source code compiles at all times, and passes all unit tests, and the CD is responsible for making sure the automated functional tests pass at all times. One would expect to develop a lot more unit tests than functional tests, thereby limiting (but not eliminating) the need for expensive manual testing.\\
+
 \newpage
 
 %-------------------------
