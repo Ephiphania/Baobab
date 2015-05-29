@@ -270,6 +270,44 @@ RTSP is used to control the delivery of streaming media across the network. It p
 \section{Software overview}
 \subsection{Software Architecture}
 
+Linphone uses a layered structure with separation between the user interface and the core engine (business logic) of the application. 
+The architecture used by Linphone is depicted in the following diagram. \\
+\\
+\begin{center}
+	\begin{figure}[H]
+		\includegraphics[width=1\linewidth]{./pictures/architecture.jpg}
+		\caption{\label{fig:Linphone Architecture} Linphone Architecture}
+	\end{figure}
+\end{center}
+
+Liblinphone is the core engine library written in objective C that provides all the functionalities of Linphone. The group chat functionality 
+will be added on top of the Liblinphone stack, making use of Liblinphone Java bindings to expose the C API in a Java friendly manner.
+The current package/document structure of the project looks like the following: \\
+\\
+$\triangleright$ AndroidTest \\
+$\triangleright$ AudioDeviceAndroidTest \\
+$\triangleright$ \textbf{linphone-android} \\
+	 \indent -- submodules/linphone/mediastreamer2/java/src \\
+	 \indent -- submodules/linphone/java/j2se \\
+	 \indent -- submodules/linphone/java/common \\
+	 \indent -- submodules/linphone/impl \\
+	 \indent -- submodules/externals/axmlrpc/src/main/java \\
+	 \indent -- submodules/linphone/coreapi/help/java \\
+	 \indent -- ... \\
+	 \indent -- ... \\
+	 \indent -- \textbf{src} \\
+	 \indent -- ... \\
+	 \indent -- ... \\
+	 \indent -- AndroidManifest.xml \\
+	 \indent -- Makefile \\
+$\triangleright$ Mediastreamer \\
+$\triangleright$ NativeActivity \\
+$\triangleright$ VideoCaptureModuleAndroidTest \\
+$\triangleright$ ViEAutotest \\
+$\triangleright$ WebRTCDemo \\
+\\ 
+The group chat code will be added in the linphone-android package under the src/ directory (linphone-android/src). \\
+
 We will use LinphoneChatRoom interface to implement the group chat. LinphoneChatMessage will include createLinphoneChatMessage which will create a LinphoneChat. 
 LinphoneCore : ge Core()  This will return a back pointer to the core managing the chat room.
 LinphoneChatMessage.State

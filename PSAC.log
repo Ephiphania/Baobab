@@ -1,22 +1,13 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.3.11)  29 MAY 2015 20:19
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.5.29)  29 MAY 2015 22:27
 entering extended mode
 **PSAC.tex
-(C:\Users\XPS\Desktop\Cos301MP\Baobab\PSAC.tex
-LaTeX2e <2011/06/27>
-Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
-abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
-croatian, czech, danish, dutch, esperanto, estonian, farsi, finnish, french, ga
-lician, german, german-x-2013-05-26, greek, gujarati, hindi, hungarian, iceland
-ic, indonesian, interlingua, irish, italian, kannada, kurmanji, latin, latvian,
- lithuanian, malayalam, marathi, mongolian, mongolianlmc, monogreek, ngerman, n
-german-x-2013-05-26, nynorsk, oriya, panjabi, pinyin, polish, portuguese, roman
-ian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, swissgerm
-an, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, usengl
-ishmax, welsh, loaded.
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\article.cls"
-Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\size10.clo"
-File: size10.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+(PSAC.tex
+LaTeX2e <2014/05/01>
+Babel <3.9l> and hyphenation patterns for 68 languages loaded.
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\article.cls"
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\size10.clo"
+File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 )
 \c@part=\count79
 \c@section=\count80
@@ -30,31 +21,31 @@ File: size10.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
-Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
-Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks14
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
-Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+Package: graphics 2014/10/28 v1.0p Standard LaTeX Graphics (DPC,SPQR)
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty"
 Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\graphics.cfg"
+("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\graphics.cfg"
 File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
 )
 Package graphics Info: Driver file: pdftex.def on input line 91.
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\pdftex-def\pdftex.def"
+("C:\Program Files\MiKTeX 2.9\tex\latex\pdftex-def\pdftex.def"
 File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
 Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
 Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
 )
 \Gread@gobject=\count87
@@ -62,14 +53,14 @@ Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
 \Gin@req@height=\dimen103
 \Gin@req@width=\dimen104
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\hyperref\hyperref.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\hyperref.sty"
 Package: hyperref 2012/11/06 v6.83m Hypertext links for LaTeX
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\hobsub-hyperref.sty"
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\hobsub-hyperref.sty"
 Package: hobsub-hyperref 2012/04/25 v1.12 Bundle oberdiek, subset hyperref (HO)
 
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\hobsub-generic.sty"
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\hobsub-generic.sty"
 Package: hobsub-generic 2012/04/25 v1.12 Bundle oberdiek, subset generic (HO)
 Package: hobsub 2012/04/25 v1.12 Construct package bundles (HO)
 Package hobsub Info: Skipping package `infwarerr' (already loaded).
@@ -110,25 +101,25 @@ Package: atbegshi 2011/10/05 v1.16 At begin shipout hook (HO)
 Package: refcount 2011/10/16 v3.4 Data extraction from label references (HO)
 Package: hycolor 2011/01/30 v1.7 Color options for hyperref/bookmark (HO)
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty"
+("C:\Program Files\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty"
 Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\oberdiek\auxhook.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\auxhook.sty"
 Package: auxhook 2011/03/04 v1.3 Hooks for auxiliary files (HO)
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty"
 Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
 )
 \@linkdim=\dimen105
 \Hy@linkcounter=\count88
 \Hy@pagecounter=\count89
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\hyperref\pd1enc.def"
+("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\pd1enc.def"
 File: pd1enc.def 2012/11/06 v6.83m Hyperref: PDFDocEncoding definition (HO)
 )
 \Hy@SavedSpaceFactor=\count90
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\hyperref.cfg"
+("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\hyperref.cfg"
 File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
 )
 Package hyperref Info: Option `bookmarks' set `true' on input line 4319.
@@ -141,7 +132,7 @@ Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4688.
 \c@Hy@tempcnt=\count91
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\url\url.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\url\url.sty"
 \Urlmuskip=\muskip10
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
@@ -166,26 +157,26 @@ LaTeX Info: Redefining \pageref on input line 6369.
 
 Package hyperref Message: Driver (autodetected): hpdftex.
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\hyperref\hpdftex.def"
+("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\hpdftex.def"
 File: hpdftex.def 2012/11/06 v6.83m Hyperref driver for pdfTeX
 \Fld@listcount=\count96
 \c@bookmark@seq@number=\count97
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\oberdiek\rerunfilecheck.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\rerunfilecheck.sty"
 Package: rerunfilecheck 2011/04/15 v1.7 Rerun checks for auxiliary files (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 82.
 )
 \Hy@SectionHShift=\skip43
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\oberdiek\bookmark.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\bookmark.sty"
 Package: bookmark 2011/12/02 v1.24 PDF bookmarks (HO)
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\oberdiek\bkm-pdftex.def"
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\bkm-pdftex.def"
 File: bkm-pdftex.def 2011/12/02 v1.24 bookmark driver for pdfTeX (HO)
 \BKM@id=\count98
 ))
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\geometry\geometry.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.sty"
 Package: geometry 2010/09/12 v5.6 Page Geometry
 \Gm@cnth=\count99
 \Gm@cntv=\count100
@@ -200,8 +191,8 @@ Package: geometry 2010/09/12 v5.6 Page Geometry
 \Gm@layoutvoffset=\dimen116
 \Gm@dimlist=\toks15
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\geometry\geometry.cfg"))
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\float\float.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.cfg"))
+("C:\Program Files\MiKTeX 2.9\tex\latex\float\float.sty"
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \c@float@type=\count102
 \float@exts=\toks16
@@ -209,10 +200,10 @@ Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \@float@everytoks=\toks17
 \@floatcapt=\box27
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\caption\caption.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\caption\caption.sty"
 Package: caption 2013/05/02 v3.3-89 Customizing captions (AR)
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\caption\caption3.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\caption\caption3.sty"
 Package: caption3 2013/05/02 v1.6-88 caption3 kernel (AR)
 Package caption3 Info: TeX engine: e-TeX on input line 57.
 \captionmargin=\dimen117
@@ -227,28 +218,27 @@ Package caption3 Info: TeX engine: e-TeX on input line 57.
 Package caption Info: float package is loaded.
 Package caption Info: hyperref package is loaded.
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\babel\babel.sty"
-Package: babel 2008/07/08 v3.8m The Babel package
+("C:\Program Files\MiKTeX 2.9\tex\latex\babel\babel.sty"
+Package: babel 2014/09/25 3.9l The Babel package
 
 *************************************
 * Local config file bblopts.cfg used
 *
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\bblopts.cfg"
+("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\bblopts.cfg"
 File: bblopts.cfg 2006/07/31 v1.0 MiKTeX 'babel' configuration
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\babel\english.ldf"
-Language: english 2005/03/30 v3.3o English support from the babel system
+("C:\Program Files\MiKTeX 2.9\tex\latex\babel-english\english.ldf"
+Language: english 2012/08/20 v3.3p English support from the babel system
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\babel\babel.def"
-File: babel.def 2008/07/08 v3.8m Babel common definitions
+("C:\Program Files\MiKTeX 2.9\tex\latex\babel\babel.def"
+File: babel.def 2014/09/25 3.9l Babel common definitions
 \babel@savecnt=\count104
 \U@D=\dimen124
 )
 \l@canadian = a dialect from \language\l@american 
 \l@australian = a dialect from \language\l@british 
 \l@newzealand = a dialect from \language\l@british 
-))
-(C:\Users\XPS\Desktop\Cos301MP\Baobab\PSAC.aux
+)) (PSAC.aux
 
 LaTeX Warning: Label `fig:Agile' multiply defined.
 
@@ -267,7 +257,7 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 17.
 LaTeX Font Info:    ... okay on input line 17.
 LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 17.
 LaTeX Font Info:    ... okay on input line 17.
- ("C:\Program Files (x86)\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
+ ("C:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count105
 \scratchdimen=\dimen125
@@ -283,10 +273,10 @@ LaTeX Font Info:    ... okay on input line 17.
 )
 \AtBeginShipoutBox=\box29
 Package hyperref Info: Link coloring OFF on input line 17.
- ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\hyperref\nameref.sty"
+ ("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\nameref.sty"
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\gettitlestring.sty"
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\gettitlestring.sty"
 Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
 \c@section@level=\count111
@@ -331,10 +321,10 @@ LaTeX Info: Redefining \nameref on input line 17.
 
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
-(C:\Users\XPS\Desktop\Cos301MP\Baobab\TitlePage.tex
-<pictures/logo.jpg, id=3, 877.02657pt x 325.215pt>
+(TitlePage.tex <pictures/logo.jpg, id=3, 877.02657pt x 325.215pt>
 File: pictures/logo.jpg Graphic file (type jpg)
- <use pictures/logo.jpg>
+
+<use pictures/logo.jpg>
 Package pdftex.def Info: pictures/logo.jpg used on input line 5.
 (pdftex.def)             Requested size: 401.50146pt x 148.88612pt.
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -356,9 +346,8 @@ Package pdftex.def Info: pictures/Team.jpg used on input line 17.
 
 [1
 
-{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map} <C:/Users/XPS/Desktop/Cos3
-01MP/Baobab/pictures/logo.jpg> <C:/Users/XPS/Desktop/Cos301MP/Baobab/pictures/T
-eam.jpg>])
+{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map} <./pictures/logo.jpg> <./p
+ictures/Team.jpg>])
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 25.
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -368,22 +357,22 @@ been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.40 \newpage
-              [1] (C:\Users\XPS\Desktop\Cos301MP\Baobab\PSAC.toc)
+              [1] (PSAC.toc)
 \tf@toc=\write3
-
-(C:\Users\XPS\Desktop\Cos301MP\Baobab\PSAC.lof)
+ (PSAC.lof)
 \tf@lof=\write4
  [2]
-<./pictures/linphone.jpeg, id=99, 501.37312pt x 355.3275pt>
+<./pictures/linphone.jpeg, id=101, 501.37312pt x 355.3275pt>
 File: ./pictures/linphone.jpeg Graphic file (type jpg)
 
 <use ./pictures/linphone.jpeg>
 Package pdftex.def Info: ./pictures/linphone.jpeg used on input line 49.
 (pdftex.def)             Requested size: 424.06033pt x 300.54962pt.
- [3 <C:/Users/XPS/Desktop/Cos301MP/Baobab/pictures/linphone.jpeg>]
+ [3 <./pictures/linphone.jpeg>]
 LaTeX Font Info:    Try loading font information for OMS+cmr on input line 64.
- ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\omscmr.fd"
-File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\omscmr.fd"
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 64.
@@ -392,7 +381,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 94--95
 
  []
 
-<./pictures/image1.jpg, id=109, 396.7322pt x 464.4853pt>
+<./pictures/image1.jpg, id=111, 396.7322pt x 464.4853pt>
 File: ./pictures/image1.jpg Graphic file (type jpg)
 
 <use ./pictures/image1.jpg>
@@ -403,7 +392,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 104--105
 
  []
 
-[5 <C:/Users/XPS/Desktop/Cos301MP/Baobab/pictures/image1.jpg>]
+[5 <./pictures/image1.jpg>]
 Underfull \hbox (badness 10000) in paragraph at lines 118--121
 
  []
@@ -455,35 +444,34 @@ Underfull \hbox (badness 10000) in paragraph at lines 153--157
 
  []
 
-[6] <./pictures/Registrar.JPG, id=119, 453.94594pt x 243.15843pt>
+[6] <./pictures/Registrar.JPG, id=121, 453.94594pt x 243.15843pt>
 File: ./pictures/Registrar.JPG Graphic file (type jpg)
 
 <use ./pictures/Registrar.JPG>
 Package pdftex.def Info: ./pictures/Registrar.JPG used on input line 160.
 (pdftex.def)             Requested size: 424.06033pt x 227.15163pt.
 
-<./pictures/proxy1.JPG, id=120, 189.70876pt x 158.09062pt>
+<./pictures/proxy1.JPG, id=122, 189.70876pt x 158.09062pt>
 File: ./pictures/proxy1.JPG Graphic file (type jpg)
 
 <use ./pictures/proxy1.JPG>
 Package pdftex.def Info: ./pictures/proxy1.JPG used on input line 171.
 (pdftex.def)             Requested size: 296.84093pt x 247.39229pt.
- [7 <C:/Users/XPS/Desktop/Cos301MP/Baobab/pictures/Registrar.JPG>] <./pictures/
-proxy2.JPG, id=125, 469.755pt x 234.8775pt>
+ [7 <./pictures/Registrar.JPG>]
+<./pictures/proxy2.JPG, id=127, 469.755pt x 234.8775pt>
 File: ./pictures/proxy2.JPG Graphic file (type jpg)
 
 <use ./pictures/proxy2.JPG>
 Package pdftex.def Info: ./pictures/proxy2.JPG used on input line 178.
 (pdftex.def)             Requested size: 424.06033pt x 212.02931pt.
 
-<./pictures/redirect.JPG, id=126, 469.755pt x 201.75375pt>
+<./pictures/redirect.JPG, id=128, 469.755pt x 201.75375pt>
 File: ./pictures/redirect.JPG Graphic file (type jpg)
 
 <use ./pictures/redirect.JPG>
 Package pdftex.def Info: ./pictures/redirect.JPG used on input line 188.
 (pdftex.def)             Requested size: 424.06033pt x 182.12775pt.
- [8 <C:/Users/XPS/Desktop/Cos301MP/Baobab/pictures/proxy1.JPG> <C:/Users/XPS/De
-sktop/Cos301MP/Baobab/pictures/proxy2.JPG>]
+ [8 <./pictures/proxy1.JPG> <./pictures/proxy2.JPG>]
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no ™ in font cmr10!
@@ -495,13 +483,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 205--209
 
  []
 
-<./pictures/ClientServer.JPG, id=131, 289.83281pt x 137.7647pt>
+<./pictures/ClientServer.JPG, id=133, 289.83281pt x 137.7647pt>
 File: ./pictures/ClientServer.JPG Graphic file (type jpg)
 
 <use ./pictures/ClientServer.JPG>
 Package pdftex.def Info: ./pictures/ClientServer.JPG used on input line 212.
 (pdftex.def)             Requested size: 424.06033pt x 201.57831pt.
- [9 <C:/Users/XPS/Desktop/Cos301MP/Baobab/pictures/redirect.JPG>]
+ [9 <./pictures/redirect.JPG>]
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no ™ in font cmr10!
@@ -510,13 +498,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 217--221
 
  []
 
-<./pictures/peer.JPG, id=136, 243.15843pt x 143.03438pt>
+<./pictures/peer.JPG, id=138, 243.15843pt x 143.03438pt>
 File: ./pictures/peer.JPG Graphic file (type jpg)
 
 <use ./pictures/peer.JPG>
 Package pdftex.def Info: ./pictures/peer.JPG used on input line 224.
 (pdftex.def)             Requested size: 424.06033pt x 249.44742pt.
- [10 <C:/Users/XPS/Desktop/Cos301MP/Baobab/pictures/ClientServer.JPG>]
+ [10 <./pictures/ClientServer.JPG>]
 Underfull \hbox (badness 10000) in paragraph at lines 230--237
 
  []
@@ -556,7 +544,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 238--245
 
  []
 
-[11 <C:/Users/XPS/Desktop/Cos301MP/Baobab/pictures/peer.JPG>]
+[11 <./pictures/peer.JPG>]
 Underfull \hbox (badness 10000) in paragraph at lines 246--251
 
  []
@@ -606,125 +594,156 @@ Underfull \hbox (badness 10000) in paragraph at lines 260--265
 
  []
 
-[12] [13]
-Underfull \hbox (badness 10000) in paragraph at lines 277--279
+[12]
+Underfull \hbox (badness 10000) in paragraph at lines 273--276
 
  []
 
-[14]
-Underfull \hbox (badness 10000) in paragraph at lines 282--283
+
+Underfull \hbox (badness 10000) in paragraph at lines 273--276
 
  []
 
-<./pictures/agile.jpg, id=158, 164.86594pt x 255.20343pt>
+<./pictures/architecture.jpg, id=152, 508.90125pt x 573.64313pt>
+File: ./pictures/architecture.jpg Graphic file (type jpg)
+
+<use ./pictures/architecture.jpg>
+Package pdftex.def Info: ./pictures/architecture.jpg used on input line 278.
+(pdftex.def)             Requested size: 424.06033pt x 478.03185pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 283--310
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 283--310
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 283--310
+
+ []
+
+[13 <./pictures/architecture.jpg>] [14]
+Underfull \hbox (badness 10000) in paragraph at lines 321--323
+
+ []
+
+[15]
+Underfull \hbox (badness 10000) in paragraph at lines 326--327
+
+ []
+
+<./pictures/agile.jpg, id=166, 164.86594pt x 255.20343pt>
 File: ./pictures/agile.jpg Graphic file (type jpg)
 
 <use ./pictures/agile.jpg>
-Package pdftex.def Info: ./pictures/agile.jpg used on input line 286.
+Package pdftex.def Info: ./pictures/agile.jpg used on input line 330.
 (pdftex.def)             Requested size: 212.03017pt x 328.2208pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 286--287
+Underfull \hbox (badness 10000) in paragraph at lines 330--331
 
  []
 
-<./pictures/scrum.jpg, id=159, 387.69844pt x 289.08pt>
+<./pictures/scrum.jpg, id=167, 387.69844pt x 289.08pt>
 File: ./pictures/scrum.jpg Graphic file (type jpg)
 
 <use ./pictures/scrum.jpg>
-Package pdftex.def Info: ./pictures/scrum.jpg used on input line 298.
+Package pdftex.def Info: ./pictures/scrum.jpg used on input line 342.
 (pdftex.def)             Requested size: 296.84093pt x 221.33514pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 298--299
+Underfull \hbox (badness 10000) in paragraph at lines 342--343
 
  []
 
-[15 <C:/Users/XPS/Desktop/Cos301MP/Baobab/pictures/agile.jpg>]
-<./pictures/CI-CD.jpg, id=164, 374.14781pt x 279.29344pt>
+[16 <./pictures/agile.jpg>]
+<./pictures/CI-CD.jpg, id=172, 374.14781pt x 279.29344pt>
 File: ./pictures/CI-CD.jpg Graphic file (type jpg)
 
 <use ./pictures/CI-CD.jpg>
-Package pdftex.def Info: ./pictures/CI-CD.jpg used on input line 315.
+Package pdftex.def Info: ./pictures/CI-CD.jpg used on input line 359.
 (pdftex.def)             Requested size: 296.84093pt x 221.59827pt.
- [16 <C:/Users/XPS/Desktop/Cos301MP/Baobab/pictures/scrum.jpg>]
-Underfull \hbox (badness 10000) in paragraph at lines 325--328
+ [17 <./pictures/scrum.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 369--372
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 325--328
+Underfull \hbox (badness 10000) in paragraph at lines 369--372
 
  []
 
-[17 <C:/Users/XPS/Desktop/Cos301MP/Baobab/pictures/CI-CD.jpg>] [18]
-<./pictures/task.jpg, id=178, 413.29407pt x 448.67625pt>
+[18 <./pictures/CI-CD.jpg>] [19]
+<./pictures/task.jpg, id=186, 413.29407pt x 448.67625pt>
 File: ./pictures/task.jpg Graphic file (type jpg)
 
 <use ./pictures/task.jpg>
-Package pdftex.def Info: ./pictures/task.jpg used on input line 383.
+Package pdftex.def Info: ./pictures/task.jpg used on input line 427.
 (pdftex.def)             Requested size: 424.06033pt x 460.37537pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 383--384
+Underfull \hbox (badness 10000) in paragraph at lines 427--428
 
  []
 
-<./pictures/role.jpg, id=179, 271.0125pt x 512.66531pt>
+<./pictures/role.jpg, id=187, 271.0125pt x 512.66531pt>
 File: ./pictures/role.jpg Graphic file (type jpg)
 
 <use ./pictures/role.jpg>
-Package pdftex.def Info: ./pictures/role.jpg used on input line 390.
+Package pdftex.def Info: ./pictures/role.jpg used on input line 434.
 (pdftex.def)             Requested size: 339.24956pt x 641.76877pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 390--391
+Underfull \hbox (badness 10000) in paragraph at lines 434--435
 
  []
 
-[19 <C:/Users/XPS/Desktop/Cos301MP/Baobab/pictures/task.jpg>]
+[20 <./pictures/task.jpg>]
 Overfull \vbox (4.16946pt too high) has occurred while \output is active []
 
 
-[20 <C:/Users/XPS/Desktop/Cos301MP/Baobab/pictures/role.jpg>]
-<./pictures/burnDown.jpg, id=188, 471.26062pt x 308.65312pt>
+[21 <./pictures/role.jpg>]
+<./pictures/burnDown.jpg, id=196, 471.26062pt x 308.65312pt>
 File: ./pictures/burnDown.jpg Graphic file (type jpg)
 
 <use ./pictures/burnDown.jpg>
-Package pdftex.def Info: ./pictures/burnDown.jpg used on input line 396.
+Package pdftex.def Info: ./pictures/burnDown.jpg used on input line 440.
 (pdftex.def)             Requested size: 424.06033pt x 277.74284pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 396--397
+Underfull \hbox (badness 10000) in paragraph at lines 440--441
 
  []
 
-[21 <C:/Users/XPS/Desktop/Cos301MP/Baobab/pictures/burnDown.jpg>]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 404.
- [22]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 404.
-
-(C:\Users\XPS\Desktop\Cos301MP\Baobab\PSAC.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 404.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 404.
+[22 <./pictures/burnDown.jpg>]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 448.
+ [23]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 448.
+ (PSAC.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 448.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 448.
 
 
 LaTeX Warning: There were multiply-defined labels.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 404.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 448.
  ) 
 Here is how much of TeX's memory you used:
- 7182 strings out of 493921
- 110111 string characters out of 3144882
- 200192 words of memory out of 3000000
- 10347 multiletter control sequences out of 15000+200000
+ 7288 strings out of 493698
+ 110825 string characters out of 3144412
+ 208292 words of memory out of 3000000
+ 10481 multiletter control sequences out of 15000+200000
  8370 words of font info for 30 fonts, out of 3000000 for 9000
- 841 hyphenation exceptions out of 8191
+ 1025 hyphenation exceptions out of 8191
  36i,7n,38p,649b,386s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb>
-<C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C
-:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/P
-rogram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Prog
-ram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Progra
-m Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on PSAC.pdf (23 pages, 1073976 bytes).
+<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Pr
+ogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Fi
+les/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files/MiKT
+eX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/fo
+nts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1
+/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/
+amsfonts/cm/cmtt10.pfb>
+Output written on PSAC.pdf (24 pages, 1202196 bytes).
 PDF statistics:
- 302 PDF objects out of 1000 (max. 8388607)
- 62 named destinations out of 1000 (max. 500000)
- 265 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 313 PDF objects out of 1000 (max. 8388607)
+ 64 named destinations out of 1000 (max. 500000)
+ 270 words of extra memory for PDF output out of 10000 (max. 10000000)
 
