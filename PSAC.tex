@@ -147,7 +147,6 @@ will act in any of several different roles:
 \begin{itemize}
 \item Registrar server
 \item Proxy Server
-\item Redirect Server
 \end{itemize}
 
 \textbf{Registrar server\\}
@@ -177,16 +176,6 @@ A client (user agent) connects to the proxy server requesting some service, such
 \begin{figure}[H]
 \includegraphics[width=1\linewidth]{./pictures/proxy2.JPG}
 \caption{\label{fig:Proxy Server2} Proxy Server 2}
-\end{figure}
-\end{center}
-
-\textbf{Redirect Server\\}
-The Redirect servers are used by SIP to redirect clients to the user agent they are attempting to contact. If a user agent makes a request, the Redirect server can respond with the IP address of the user agent being contacted. This is different from a Proxy server, which forwards the request on your behalf, as the Redirect server essentially tells you to contact them yourself.
-
-\begin{center}
-\begin{figure}[H]
-\includegraphics[width=1\linewidth]{./pictures/redirect.JPG}
-\caption{\label{fig:Redirect Server} Redirect Server1}
 \end{figure}
 \end{center}
 
@@ -249,22 +238,6 @@ SDP is used to send description information that is necessary when sending multi
 SDP does not deliver media itself but is used between end points for negotiation of media type, format, and all associated properties. It contains the name and purpose of the session, the time the session is active, etc.\\
 \\
 
-\textbf{Real-Time Transport Protocol (RTP)\\}
-RTP is used to transport real-time data across a network. It manages the transmission of multimedia over the IP network with SIP. Information in the packet header tells the receiving user agent how the data should be reconstructed. \\
-\\
-RTP provides some reliability in the data sent between user agents. RTP uses the Real-Time Control Protocol which allows the receiving user agent to detect if there is packet loss and allows it to compensate for any delays that might occur as data is transport across the network.\\
-\\
-RTP is used by Linphone for delivering data such as voice and video over IP network and will also be implemented for Linphones group chat.\\
-\\
-
-\textbf{Media Gateway Control Protocol (MGCP)\\}
-MGCP is used to control gateways that provide access to the Public Switched Telephone Network (PSTN). This protocol provides a method for communication on a network that supports voice calls between PSTN-IP or IP-IP networks. It is used to convert the data from a format that is used on PSTN to one that is used by IP networks. This protocol is used to set up, manage and terminate calls between endpoints.\\
-\\
-MGCP may be used for Linphones group chat implementation where users will be able to send calls to other users.\\
-\\
-
-\textbf{Real-Time Streaming Protocol (RTSP)\\}
-RTSP is used to control the delivery of streaming media across the network. It provides the ability to control streaming media. Through this protocol, an application can issue commands to play, pause or perform other actions that affect the paying of media being transferred to the application.
 \newpage
 
 \section{Software overview}
@@ -392,10 +365,20 @@ Please note that for each story we will setup unit testing and automated testing
 
 \subsection{User Roles}
 Each task in the user story is implemented concurrently and sequentially as needed.
-\begin{figure}[H]
-\includegraphics[width=0.8\linewidth]{./pictures/role.jpg}\\
-\caption{\label{fig:Task Discription with roles}Task Description with roles}
-\end{figure}
+
+\begin{table}[h]
+\centering
+\caption{My caption}
+\label{User Roles}
+\begin{tabular}{ll}
+Scrum master & Potego Mello\\
+Client representative & Patience Mtsweni\\
+UX developer & Lutfiyya Razak\\
+Backend developer & Ephiphania Munava\\
+Crypto developer & Tsepo Ntsaba and Lerato Molokomme\\
+CI / CD support & Patience Mtsweni
+\end{tabular}
+\end{table}
 
 \subsection{Burn Down Chart}
 \begin{figure}[H]
